@@ -1,0 +1,9 @@
+train: ../data/TRAIN_DATA1-4/train/images/
+val: ../data/TRAIN_DATA1-4/valid/images/
+test: ../data/TRAIN_DATA1-4/test/images/
+
+# number of classes
+nc: 7
+
+# class names
+names: ['car', 'bus', 'taxi', 'bike', 'pickup', 'truck', 'trailer']
